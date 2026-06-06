@@ -41,3 +41,6 @@ The player has a maximum of six incorrect attempts to guess the word correctly.
 ## Learning Outcomes
 This project helped me understand Python basics like loops, conditions, lists, strings, and random module. 
 It also improved my logical thinking and problem-solving skills.
+
+
+This project was developed as part of the CodeAlpha Python Programming Internship.
